@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f2f2f2; /* Add a background color to the body */
+}
+
+.container {
+  background-color: #ffffff; /* Add a background color to the container */
+  padding: 20px;
+  border: 1px solid #dddddd; /* Add a border to the container */
+}
+
+.slider-container {
+  background-color: #ffffff; /* Add a background color to the slider container */
+  padding: 20px;
+  border: 1px solid #dddddd; /* Add a border to the slider container */
+}
+.footer {
+   
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #f5f5f5;
+  padding: 10px;
+  
+}

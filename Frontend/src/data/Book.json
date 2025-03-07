@@ -1,0 +1,58 @@
+[
+    {
+      "id": 9,
+      "title": "Badkirdar",
+      "author": "Noor Asif",
+      "pdf": "pdfs/9.pdf",
+      "image": "images/9.avif"
+    },
+    {
+      "id": 10,
+      "title": "Bad dua e Ishq",
+      "author": "Areesha Khan",
+      "pdf": "pdfs/10.pdf",
+      "image": "images/10.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Be Reham Ishaq",
+      "author": "Sadaf Meman",
+      "pdf": "pdfs/11.pdf",
+      "image": "images/11.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Bin Kaha Sun O Yara",
+      "author": "Furhat Nashat Mustafa",
+      "pdf": "pdfs/12.pdf",
+      "image": "images/12.webp"
+    },
+    {
+      "id": 13,
+      "title": "Dasht e Wahshat",
+      "author": "Mehwish Ali",
+      "pdf": "pdfs/13.pdf",
+      "image": "images/13.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Woh Meri Pakeeza Muhabbat ha",
+      "author": "Hoorain Fatime",
+      "pdf": "pdfs/14.pdf",
+      "image": "images/14.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Dil hi to ha",
+      "author": "Zeenia Khan",
+      "pdf": "pdfs/15.pdf",
+      "image": "images/15.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Woh Ishq Gumnam Tha Koi",
+      "author": "Fajar Metala",
+      "pdf": "pdfs/16.pdf",
+      "image": "images/16.webp"
+    } 
+  ]
